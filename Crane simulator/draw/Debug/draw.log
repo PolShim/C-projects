@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  draw2.cpp
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(61): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(64): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(78): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(81): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(94): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(97): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(135): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(139): warning C4244: "argument": konwersja z "double" do "Gdiplus::REAL", możliwa utrata danych
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(139): warning C4244: "argument": konwersja z "UINT" do "Gdiplus::REAL", możliwa utrata danych
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(145): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(147): warning C4244: "-=": konwersja z "double" do "Gdiplus::REAL", możliwa utrata danych
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(149): warning C4244: "argument": konwersja z "double" do "Gdiplus::REAL", możliwa utrata danych
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(149): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(153): warning C4244: "argument": konwersja z "double" do "Gdiplus::REAL", możliwa utrata danych
+c:\programowanie\tp 2019 19 05 projekt 3 terech szymon 175458 magrian grzegorz 175731 air2\draw\draw2.cpp(153): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+  draw.vcxproj -> C:\Programowanie\TP 2019 19 05 projekt 3 Terech Szymon 175458 Magrian Grzegorz 175731 AIR2\Debug\draw2.exe

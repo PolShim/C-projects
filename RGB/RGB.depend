@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577999848 source:c:\programowanie\rgb\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586518452 source:c:\programowanie\projektlinielotnicze\main.cpp
+	<iostream>
+	<queue>
+	<time.h>
+	<cstdlib>
+
